@@ -10,7 +10,7 @@ public class Conta {
     public Conta(int numero) {
 
        this.numero = numero; //this obrigatorio
-       this.saldo=999; 
+       this.saldo=0; 
 
     }    
 
